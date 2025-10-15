@@ -1,4 +1,3 @@
-<img width="721" height="526" alt="image" src="https://github.com/user-attachments/assets/069c64eb-a37a-41cb-8490-0dc3115f217d" /># Implementation-of-K-Means-Clustering-for-Customer-Segmentation
 
 ## AIM:
 To write a program to implement the K Means Clustering for Customer Segmentation.
@@ -77,7 +76,6 @@ plt.show()
 ![K Means Clustering for Customer Segmentation](sam.png)
 <img width="493" height="429" alt="image" src="https://github.com/user-attachments/assets/58f9d407-b492-45f2-a67d-bef48e839ff1" />
 <img width="670" height="265" alt="image" src="https://github.com/user-attachments/assets/230827b8-9139-4472-971b-1bb7cb508d72" />
-
 <img width="721" height="526" alt="image" src="https://github.com/user-attachments/assets/85d3aba4-7b74-4eb8-9a07-36bc7e6f8275" />
 
 ## Result:
